@@ -1,0 +1,1 @@
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d342.17271460322695!2d-79.00327641125163!3d-2.90861800836574!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf9b1190c798fa7d5!2sMarisqueria%20Resaca%20Cuenca!5e0!3m2!1ses!2sec!4v1645955185249!5m2!1ses!2sec" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
